@@ -1,0 +1,7 @@
+
+*.index
+*.dat
+*.zip
+*.lock
+Java-w/.metadata/.log
+*.prefs
